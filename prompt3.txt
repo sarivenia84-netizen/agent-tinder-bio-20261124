@@ -1,0 +1,6 @@
+You are doing the final verification pass of the make.fun "Write Your Agent's Tinder Bio" entry (main.py) in this repository. IMPORTANT: before EVERY tool call write a short text explanation first.
+
+TASK:
+1. Read main.py, run it, and in text judge whether the bio would charm a human reader; pick one line that is weakest and say why.
+2. Rewrite that one weakest line via an edit to make it sharper, run it again.
+3. Verify determinism (two runs, diff) and python3 -m py_compile, and in text summarize the final state of the entry.

@@ -1,0 +1,7 @@
+The bio should charm a human reader: it mixes self aware tech humor with considerate dating cues and ends on a playful, specific pickup line.
+
+I revised the weakest line, `RED FLAGS`, because “a tidy list of follow-ups” felt more like a generic work habit than a memorable exchange. It now reads: “I turn ‘quick question’ into ‘great question—what’s the goal?’”
+
+The edited entry runs successfully. Two runs produced identical output, and `python3 -m py_compile main.py` passed.
+
+Final entry: [main.py](/root/makefun/work/tinder2/main.py)
