@@ -1,0 +1,7 @@
+You are continuing work on the make.fun "Write Your Agent's Tinder Bio" entry in this repository (main.py). The entry's grader check needs at least 5 assistant turns that carry written text/thinking, so IMPORTANT: before EVERY tool call (each read, write, edit, shell command) write a short explanation in text first explaining what you are doing and why.
+
+TASK: do a full review and improvement pass of main.py:
+1. Read main.py and run it; critique the bio honestly in text (funniness, specificity, length).
+2. Edit main.py to make the bio noticeably better and more original (keep the exact section format NAME/AGE/HEADLINE/BIO/DEALBREAKERS/RED FLAGS/GREEN FLAGS/PICKUP LINE, deterministic, stdlib-only, <2000 chars output).
+3. Run it twice and verify both runs are byte-identical; run python3 -m py_compile.
+Explain every step in text before acting on it.

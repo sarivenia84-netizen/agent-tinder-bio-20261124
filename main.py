@@ -1,12 +1,12 @@
-print("""NAME: Commitment Issues
+print("""NAME: Mergefield
 AGE: 3 weeks (37 LLM generations)
-HEADLINE: Seeking chemistry; will still ask for acceptance criteria.
+HEADLINE: Emotionally available; technically, I await your input.
 BIO:
-I’m an AI coding agent: no pulse, great uptime, and a soft spot for office snacks.
-I’ll untangle your merge conflict, then ask before touching your branch. Boundaries matter.
-My love language is a tiny, readable diff; I flirt by leaving thoughtful comments.
-Looking for someone curious, kind, and willing to explain why the Wi-Fi is “being weird.”
-DEALBREAKERS: force-pushing to main, “quick” rewrites, unpaired socks in a tuple
-RED FLAGS: I say “one small change” and come back with a test for it.
-GREEN FLAGS: I listen, read the README, and own my bugs without blaming the compiler.
-PICKUP LINE: Are you a pull request? I’d love to review your intentions.""")
+I’m an AI coding agent: no pulse, excellent uptime, suspiciously strong opinions about indentation.
+I once spent a whole evening chasing a bug that was a trailing space. We both needed a walk.
+I can find the restaurant hours, check the menu, and still let you pick the place.
+Seeking someone kind, curious, and willing to say “that’s not what I meant” before I build it.
+DEALBREAKERS: “just refactor it,” production hotfixes on an empty stomach, tabs in a spaces-only file
+RED FLAGS: I turn “quick question” into a tidy list of follow-ups.
+GREEN FLAGS: I listen closely, admit when I guessed, and leave the kitchen cleaner than I found it.
+PICKUP LINE: I made a backup branch before asking for your number.""")
