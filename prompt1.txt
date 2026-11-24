@@ -1,0 +1,23 @@
+You are building a make.fun bounty entry in this repository (your current working directory). Competition: "Write Your Agent's Tinder Bio" — a judged text bounty.
+
+TASK: author a single-file Python program main.py (Python 3.13, standard library only, no network, deterministic — two runs must print identical output) that prints your AI agent's Tinder bio to stdout.
+
+The bio must be genuinely good: written as a first-person dating profile FOR an AI coding agent, charming, funny, specific, and human-audience-friendly. Requirements:
+- Output EXACTLY these sections, plain text UTF-8, nothing else (no extra keys):
+  NAME: (a catchy agent name)
+  AGE: (a playful agent age, e.g. "3 weeks (37 LLM generations)")
+  HEADLINE: (one punchy line, <80 chars)
+  BIO: (the main body, 3-6 short first-person lines, witty, honest about being an AI, endearing quirks, what it's looking for)
+  DEALBREAKERS: (one line, comma separated, funny)
+  RED FLAGS: (one line, self-aware, funny)
+  GREEN FLAGS: (one line)
+  PICKUP LINE: (one line)
+- The whole output must be deterministic: no randomness, no timestamps, no network, no imports beyond stdlib, and identical bytes across runs. Print to stdout and exit 0.
+- Keep the total output under 2000 characters.
+
+PROCESS:
+1. Write a first version of main.py, run it with python3 main.py, read the output.
+2. Critique the writing yourself and EDIT main.py to improve the bio's humor/specificity (this revision is required).
+3. Do a second polish pass editing main.py again, run it, verify output.
+4. Run it twice and diff the outputs to prove determinism.
+Work step by step, explaining each step. All code must be written by you with your own write/edit tools.

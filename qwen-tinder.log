@@ -1,0 +1,3 @@
+Created and polished [main.py](/root/makefun/work/tinder2/main.py). It prints the required bio sections, and the final output is 790 characters.
+
+Ran the first draft, revised it twice for humor and specificity, then ran the final program twice. `diff` found no differences; both runs exited successfully.
